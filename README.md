@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Oliver y soy de Guatemala 🇬🇹, un lugar lleno de cultura, historia y belleza natural. Me apasiona el desarrollo de software y aquí comparto mis proyectos y aventuras en el mundo de la tecnología.</p>
+<p align="left">Mi nombre es Oliver y soy de Guatemala 🇬🇹. Me apasiona el desarrollo de software y aquí comparto mis proyectos y aventuras en el mundo de la tecnología.</p>
 
 ###
 
