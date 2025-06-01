@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 Vivo en: Guatemala<br>- 💻 Me gusta: Desarrollo de software desde el análisis hasta el deploy.<br>- 🌟 Fun fact: Me gustan los videojuegos y me apasiona la F1<br>- 🎯 Mi objetivo: Seguir profesionalizándome en el desarrollo de software y de aplicaciones móviles</p>
+<p align="left">📍 Vivo en: Guatemala<br>- 💻 Me gusta: Desarrollo de software desde el análisis hasta el deploy.<br>- 🌟 Fun fact: Me gustan los videojuegos 🎮 y la F1 🏎️<br>- 🎯 Mi objetivo: Seguir profesionalizándome en el desarrollo de software y de aplicaciones móviles</p>
 
 ###
 
