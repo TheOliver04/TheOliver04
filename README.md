@@ -4,7 +4,7 @@
 
 <p align="left">
 Mi nombre es Oliver y soy de Guatemala 🇬🇹.  
-Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orientado a construir, desplegar y operar aplicaciones completas en entornos productivos.
+Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orientado a construir, desplegar y administrar aplicaciones en entornos productivos.
 </p>
 
 ###
@@ -24,10 +24,10 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
 <p align="left">
 📍 Guatemala 🇬🇹<br>
 💻 Desarrollo: aplicaciones web completas desde el análisis hasta producción.<br>
-☁️ Cloud: despliegue, configuración y operación de servicios en la nube.<br>
+☁️ Cloud: despliegue, configuración y administración de infraestructura.<br>
 🧠 Arquitectura: aplicaciones monolíticas y APIs REST.<br>
 🌟 Fun fact: Videojuegos 🎮 y F1 🏎️<br>
-🎯 Objetivo: seguir profundizando en arquitectura cloud, automatización y escalabilidad.
+🎯 Objetivo: profundizar en arquitectura cloud, automatización y operación de sistemas.
 </p>
 
 ###
@@ -74,6 +74,8 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </div>
 
 ###
@@ -81,7 +83,6 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
 <h3 align="left">☁️ Cloud & Infraestructura</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img width="12" />
@@ -90,11 +91,20 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
 
 ###
 
-<h3 align="left">🚀 DevOps & Deploy</h3>
-
+<h3 align="left">🛠️ Administración de Servidores</h3>
 <ul align="left">
-  <li>Despliegues de aplicaciones <strong>React + Node.js</strong> en entornos cloud</li>
-  <li>Despliegues de aplicaciones <strong>Python (Flask / Django)</strong></li>
+  <li>Administración de servidores Linux</li>
+  <li>Configuración y hardening básico</li>
+  <li>Gestión de usuarios y permisos</li>
+  <li>Monitoreo y mantenimiento de servicios</li>
+</ul>
+
+###
+
+<h3 align="left">🚀 DevOps & Deploy</h3>
+<ul align="left">
+  <li>Despliegues de aplicaciones <strong>React + Node.js</strong></li>
+  <li>Despliegues de aplicaciones <strong>Flask / Django</strong></li>
   <li>Configuración y administración de <strong>NGINX</strong></li>
   <li>Gestión de procesos con <strong>PM2</strong></li>
   <li>Automatización con <strong>GitHub Actions (CI/CD)</strong></li>
@@ -103,10 +113,9 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
 ###
 
 <h3 align="left">🏗️ Arquitectura</h3>
-
 <ul align="left">
-  <li>Aplicaciones <strong>Monolíticas</strong></li>
-  <li>Diseño e implementación de <strong>APIs REST</strong></li>
+  <li>Aplicaciones monolíticas</li>
+  <li>APIs REST</li>
   <li>Separación Frontend / Backend</li>
   <li>Preparación de entornos productivos</li>
 </ul>
