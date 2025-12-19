@@ -109,6 +109,29 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
 
 ###
 
+<h3 align="left">☁️ Prácticas Cloud</h3>
+<ul align="left">
+  <li>Configuración y gestión de <strong>backups</strong> de bases de datos y servidores</li>
+  <li>Implementación de <strong>SSL/TLS</strong> (certificados y renovación)</li>
+  <li>Uso de <strong>Reverse Proxy</strong> con NGINX</li>
+  <li>Separación de entornos (desarrollo / producción)</li>
+  <li>Preparación de servicios para entornos productivos</li>
+</ul>
+
+
+###
+
+<h3 align="left">🌐 DNS & Correo Electrónico</h3>
+<ul align="left">
+  <li>Administración y configuración de <strong>DNS</strong> (A, AAAA, CNAME, MX, TXT, SPF, DKIM, DMARC)</li>
+  <li>Gestión de dominios y zonas DNS</li>
+  <li>Configuración de servicios de <strong>correo electrónico</strong></li>
+  <li>Integración de correo transaccional y notificaciones</li>
+  <li>Buenas prácticas de entregabilidad y seguridad de correo</li>
+</ul>
+
+###
+
 <h3 align="left">🚀 DevOps & Deploy</h3>
 <ul align="left">
   <li>Despliegues de aplicaciones <strong>React + Node.js</strong></li>
@@ -116,6 +139,17 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
   <li>Configuración y administración de <strong>NGINX</strong></li>
   <li>Gestión de procesos con <strong>PM2</strong></li>
   <li>Automatización con <strong>GitHub Actions (CI/CD)</strong></li>
+</ul>
+
+###
+
+<h3 align="left">🔐 Seguridad & Buenas Prácticas</h3>
+<ul align="left">
+  <li>Configuración básica de <strong>firewall</strong> y reglas de acceso</li>
+  <li>Protección contra ataques comunes (<strong>DDoS</strong>, fuerza bruta, escaneos básicos)</li>
+  <li>Buenas prácticas de gestión de credenciales y secretos</li>
+  <li>Uso de encabezados de seguridad HTTP</li>
+  <li>Actualización y mantenimiento de servicios</li>
 </ul>
 
 ###
