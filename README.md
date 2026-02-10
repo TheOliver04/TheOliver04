@@ -13,7 +13,12 @@ Soy <strong>Full Stack Developer con enfoque en Cloud Engineering</strong>, orie
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Cloud-Engineer-orange?style=for-the-badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Network%20Security-darkred?style=for-the-badge" />
 </div>
+
 
 ###
 
