@@ -142,13 +142,16 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 <h2 align="left">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOliver04&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOliver04&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOliver04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOliver04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TheOliver04&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=TheOliver04&theme=tokyonight&hide_border=true" height="150"/>
 </div>
+
 
 ---
 
