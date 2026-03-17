@@ -157,3 +157,4 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 <li>Automatización y estabilidad operativa</li>
 <li>Integración entre desarrollo e infraestructura</li>
 </ul>
+<br>
