@@ -2,7 +2,7 @@
 
 <p align="left">
 Guatemala 🇬🇹 <br>
-Ingeniero enfocado en infraestructura, desarrollo de aplicaciones, redes y seguridad.<br>
+Licenciado enfocado en infraestructura, desarrollo de aplicaciones, redes y seguridad.<br>
 Construyo, despliego y opero sistemas en producción.
 </p>
 
