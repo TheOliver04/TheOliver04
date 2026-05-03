@@ -11,6 +11,8 @@ Construyo, despliego y opero sistemas en producción.
   <img width="8" />
   <img src="https://img.shields.io/badge/Full%20Stack-Engineering-blue?style=for-the-badge" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Mobile-Development-green?style=for-the-badge" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Security-darkred?style=for-the-badge" />
@@ -24,7 +26,7 @@ Construyo, despliego y opero sistemas en producción.
 Trabajo en todo el ciclo de vida de los sistemas: desde el desarrollo hasta la infraestructura y la operación en producción.  
 Diseño arquitecturas funcionales, configuro servidores, implemento seguridad y optimizo despliegues.
 
-Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hardening de sistemas.
+Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura cloud, redes y hardening de sistemas.
 </p>
 
 ---
@@ -40,6 +42,10 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
 </div>
 
 <h3 align="left">Frontend</h3>
@@ -53,6 +59,17 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+</div>
+
+<h3 align="left">Mobile</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
 </div>
 
 <h3 align="left">Backend</h3>
@@ -73,7 +90,20 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
 </div>
+
+---
+
+<h2 align="left">📱 Desarrollo Mobile</h2>
+
+<ul>
+<li>Desarrollo nativo Android con Kotlin</li>
+<li>Desarrollo nativo iOS con Swift</li>
+<li>Integración con APIs REST y servicios cloud</li>
+<li>Arquitecturas modernas (MVVM, Clean Architecture)</li>
+</ul>
 
 ---
 
@@ -105,11 +135,12 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 <h2 align="left">🌐 Redes</h2>
 
 <ul>
+<li>Routing dinámico (OSPF) y switching avanzado (EtherChannel/LACP)</li>
 <li>Configuración de VLANs y segmentación</li>
-<li>Routing básico</li>
+<li>Seguridad de switching (Port Security, DHCP Snooping, BPDU Guard)</li>
+<li>VPN site-to-site (IPsec IKEv2)</li>
 <li>Administración de DNS (A, MX, SPF, DKIM, DMARC)</li>
-<li>Configuración de VPN</li>
-<li>Gestión de VPS</li>
+<li>Gestión de VPS y redes empresariales</li>
 </ul>
 
 ---
@@ -118,11 +149,11 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 
 <ul>
 <li>Hardening de servidores Linux</li>
-<li>Configuración de firewall</li>
+<li>Administración de firewall enterprise (Sophos XGS)</li>
+<li>DMARC enforcement y hardening de correo electrónico</li>
 <li>Protección contra ataques comunes</li>
 <li>Gestión segura de credenciales</li>
 <li>Encabezados de seguridad HTTP</li>
-<li>Buenas prácticas en correo electrónico</li>
 </ul>
 
 ---
@@ -131,9 +162,10 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 
 <ul>
 <li>Deploy de aplicaciones React + Node.js</li>
-<li>Deploy de Flask / Django</li>
+<li>Deploy de Flask / Django / Next.js</li>
 <li>Gestión de procesos con PM2</li>
 <li>CI/CD con GitHub Actions</li>
+<li>Monitoreo con Netdata Cloud</li>
 <li>Preparación y monitoreo en producción</li>
 </ul>
 
@@ -145,7 +177,6 @@ Mi enfoque combina desarrollo Full Stack con infraestructura cloud, redes y hard
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TheOliver04&theme=tokyonight&hide_border=true" height="150"/>
 </div>
-
 
 ---
 
