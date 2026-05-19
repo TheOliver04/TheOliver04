@@ -1,4 +1,4 @@
-<h1 align="left">Oliver | Senior Cloud Engineer & Full Stack Engineer ☁️🚀</h1>
+<h1 align="left">Oliver Bolaños | Senior Cloud Engineer & Full Stack Engineer ☁️🚀</h1>
 
 <p align="left">
 Guatemala 🇬🇹 <br>
