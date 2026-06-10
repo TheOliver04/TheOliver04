@@ -31,6 +31,36 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
 
 ---
 
+<h2 align="left">📜 Certificaciones</h2>
+
+<div align="left">
+  <a href="https://www.credly.com/earner/earned/badge/8fa8f869-9d21-4f6a-af91-9019ef75f247" title="AWS Academy Graduate - Cloud Foundations">
+    <img src="https://images.credly.com/size/110x110/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations"/>
+  </a>
+  <img width="10"/>
+  <a href="https://www.credly.com/earner/earned/badge/f750df37-244f-47ff-ae35-936ff8aee909" title="CCNA: Enterprise Networking, Security, and Automation">
+    <img src="https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" height="110" alt="CCNA: Enterprise Networking, Security, and Automation"/>
+  </a>
+  <img width="10"/>
+  <a href="https://www.credly.com/earner/earned/badge/7af2a37c-4604-4e33-ba80-adec148eb50d" title="CCNA: Introduction to Networks">
+    <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height="110" alt="CCNA: Introduction to Networks"/>
+  </a>
+  <img width="10"/>
+  <a href="https://www.credly.com/earner/earned/badge/99839fe8-052f-4e76-b094-72703e3b04ce" title="CCNA: Switching, Routing, and Wireless Essentials">
+    <img src="https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" height="110" alt="CCNA: Switching, Routing, and Wireless Essentials"/>
+  </a>
+  <img width="10"/>
+  <a href="https://www.credly.com/earner/earned/badge/ee06d922-7d22-4801-8991-0ddfc4fccdb1" title="Network Technician Career Path">
+    <img src="https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="110" alt="Network Technician Career Path"/>
+  </a>
+  <img width="10"/>
+  <a href="https://www.credly.com/earner/earned/badge/c2a185a8-cc38-430e-a929-c75d3b2b27bd" title="Python Essentials 1">
+    <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="110" alt="Python Essentials 1"/>
+  </a>
+</div>
+
+---
+
 <h2 align="left">⚙️ Desarrollo Full Stack</h2>
 
 <h3 align="left">Lenguajes</h3>
