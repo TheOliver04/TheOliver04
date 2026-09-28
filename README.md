@@ -201,7 +201,7 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
 
 ---
 
-<h2 align="left">📊 GitHub Metrics</h2>
+<h2 align="left">📊 GitHub Metrics </h2>
 <br>
 
 <div align="center">
