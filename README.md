@@ -34,8 +34,8 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
 <h2 align="left">📜 Certificaciones</h2>
 
 <div align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/oliver-bolanos/FBD34A0EAF2942E6?sharingId=E64EF0A43166CFF9" title="Microsoft Certified: SQL AI Developer Associate">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="110" alt="Microsoft Certified: SQL AI Developer Associate"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/oliver-bolanos/FBD34A0EAF2942E6?sharingId=E64EF0A43166CFF9" title="Microsoft Certified: SQL AI Developer Associate (DP-800)">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="110" alt="Microsoft Certified: SQL AI Developer Associate (DP-800)"/>
   </a>
   <img width="10"/>
   <a href="https://www.credly.com/earner/earned/badge/8fa8f869-9d21-4f6a-af91-9019ef75f247" title="AWS Academy Graduate - Cloud Foundations">
