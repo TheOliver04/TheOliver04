@@ -34,6 +34,10 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
 <h2 align="left">📜 Certificaciones</h2>
 
 <div align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/oliver-bolanos/FBD34A0EAF2942E6?sharingId=E64EF0A43166CFF9" title="Microsoft Certified: SQL AI Developer Associate">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="110" alt="Microsoft Certified: SQL AI Developer Associate"/>
+  </a>
+  <img width="10"/>
   <a href="https://www.credly.com/earner/earned/badge/8fa8f869-9d21-4f6a-af91-9019ef75f247" title="AWS Academy Graduate - Cloud Foundations">
     <img src="https://images.credly.com/size/110x110/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations"/>
   </a>
@@ -72,10 +76,6 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
 </div>
 
 <h3 align="left">Frontend</h3>
@@ -217,5 +217,6 @@ Mi enfoque combina desarrollo Full Stack y mobile nativo con infraestructura clo
 <li>Infraestructura optimizada para producción</li>
 <li>Automatización y estabilidad operativa</li>
 <li>Integración entre desarrollo e infraestructura</li>
+<li>Integración de IA con bases de datos (Azure SQL, búsqueda vectorial, RAG)</li>
 </ul>
 <br>
